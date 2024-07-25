@@ -9,10 +9,10 @@ Welcome to my Arduino World! This repository showcases a collection of small and
 4. **Potentiometer**: to change the LED intensity with the help of a potentiometer.
    and many more interesting projects like using ultrasonic sensors and avoiding debounce delay will help progress from a beginner state to the next level.
 
-##Contributions
+## Contributions
 Contributions are welcome! If you have a mini Arduino project you'd like to share or want to make together, kindly contact.
 
-##contacts
+## Contacts
 For any questions or suggestions, feel free to reach out to [atripathi2312@gmail.com or https://github.com/Lawkage1].
 
 Linkedin: [https://www.linkedin.com/in/alankar-tripathi-a9a118286/]
